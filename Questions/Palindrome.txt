@@ -1,0 +1,29 @@
+Test Case 1 (10 Points)
+n = 18
+k = 4
+Answer: 212
+
+Test Case 2 (10 Points)
+n = 11
+k = 6
+Answer: 44
+
+Test Case 3 (15 Points)
+n = 119738
+k = 6
+Answer: 0055541455500
+
+Test Case 4 (15 Points)
+n = 178414
+k = 3
+Answer: 000012020000020210000
+
+Test Case 5 (25 Points)
+n = 1000079143
+k = 2
+Answer: 10111001101111111111001010100101010011111111110110011101
+
+Test Case 6 (25 Points)
+n = 1000087823
+k = 4
+Answer: 10033011312121212121311033001

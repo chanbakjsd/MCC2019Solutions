@@ -1,0 +1,23 @@
+Test Case 1 (15 Points)
+shouts = ["even", "odd", "even", "odd", "odd"]
+Answer: 27
+
+Test Case 2 (15 Points)
+shouts = ["odd", "even", "odd", "odd", "even"]
+Answer: 14
+
+Test Case 3 (15 Points)
+shouts = ["odd", "odd", "odd", "even", "odd", "odd", "even", "even", "odd", "odd", "even", "even", "odd", "even", "odd", "odd", "odd", "even", "odd", "even"]
+Answer: 381752
+
+Test Case 4 (15 Points)
+shouts = ["even", "even", "odd", "odd", "even", "even", "even", "odd", "odd", "odd", "even", "even", "even", "odd", "even", "even", "odd", "even", "odd", "odd"]
+Answer: 861069
+
+Test Case 5 (20 Points)
+shouts = ["odd", "odd", "odd", "odd", "even", "even", "odd", "odd", "odd", "odd", "odd", "even", "even", "odd", "odd", "even", "even", "odd", "odd", "odd", "odd", "odd", "even", "even", "even", "odd", "even", "even", "odd", "even", "odd", "even", "even", "even", "even", "even", "odd", "even", "even", "even", "odd", "odd", "even", "odd", "odd", "even", "even", "odd", "odd", "even", "even", "odd", "even", "odd", "even", "odd", "odd", "even", "even", "odd"]
+Answer: 696258111807055824
+
+Test Case 6 (20 Points)
+shouts = ["odd", "even", "odd", "even", "even", "even", "even", "even", "odd", "even", "even", "even", "odd", "odd", "even", "even", "odd", "even", "odd", "even", "odd", "even", "even", "odd", "odd", "odd", "odd", "odd", "even", "odd", "even", "even", "even", "even", "even", "even", "even", "even", "odd", "odd", "odd", "odd", "odd", "even", "odd", "odd", "odd", "odd", "even", "odd", "even", "odd", "even", "odd", "odd", "even", "odd", "odd", "odd", "even"]
+Answer: 534511910600913158
